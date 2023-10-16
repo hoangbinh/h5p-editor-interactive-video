@@ -216,6 +216,8 @@
 }
 
 /* H5P specific fonts: */
+.h5p-interactive-video-dragnbar .h5p-dragnbar-speakthewords-button:before,
+.h5p-interactive-video-dragnbar .h5p-dragnbar-speakthewordsset-button:before,
 .h5p-interactive-video-dragnbar .h5p-dragnbar-dragquestion-button:before,
 .h5p-interactive-video-dragnbar .h5p-dragnbar-multichoice-button:before,
 .h5p-interactive-video-dragnbar .h5p-dragnbar-blanks-button:before,
@@ -231,6 +233,8 @@
   font-size: 1.2em;
   vertical-align: top;
 }
+.h5p-speakthewords-interaction-icon:before,
+.h5p-speakthewordsset-interaction-icon:before,
 .h5p-singlechoiceset-interaction-icon:before,
 .h5p-dragtext-interaction-icon:before,
 .h5p-markthewords-interaction-icon:before,
@@ -279,6 +283,14 @@
 }
 .h5p-interactive-video-dragnbar .h5p-dragnbar-multimediachoice-button:before,
 .h5p-multimediachoice-interaction-icon:before {
+  content: "\e903";
+}
+.h5p-interactive-video-dragnbar .h5p-dragnbar-speakthewords-button:before,
+.h5p-speakthewords-interaction-icon:before {
+  content: "\e903";
+}
+.h5p-interactive-video-dragnbar .h5p-dragnbar-speakthewordsset-button:before,
+.h5p-speakthewordsset-interaction-icon:before {
   content: "\e903";
 }
 

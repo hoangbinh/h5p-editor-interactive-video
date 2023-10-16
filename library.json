@@ -171,6 +171,16 @@
       "machineName": "H5P.MultiMediaChoice",
       "majorVersion": 0,
       "minorVersion": 3
+    },
+    {
+      "machineName": "H5P.SpeakTheWords",
+      "majorVersion": 1,
+      "minorVersion": 5
+    },
+    {
+      "machineName": "H5P.SpeakTheWordsSet",
+      "majorVersion": 1,
+      "minorVersion": 3
     }
   ]
 }
